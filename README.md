@@ -9,12 +9,12 @@
 <table>
     <tbody>
         <tr>
+            <td align="center">
+                <a href="01"><img src="01/.github/preview.jpg" /></a>
+            </td>
             <td width="60%">
                 <a href="01">Music Player</a>
                 <p><small>11/01/23</small></p>
-            </td>
-            <td align="center">
-                <a href="01"><img src="01/.github/preview.jpg" /></a>
             </td>
         </tr>
     </tbody>
